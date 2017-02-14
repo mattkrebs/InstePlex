@@ -1,0 +1,15 @@
+{
+  "name": "plexautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "plex-api": "^5.0.2",
+    "plex-api-credentials": "^3.0.0"
+  }
+}
